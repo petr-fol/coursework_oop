@@ -1,0 +1,842 @@
+{
+  "items": [
+    {
+      "id": "88747107",
+      "premium": false,
+      "name": "Диспетчер чатов, удаленно",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "113",
+        "name": "Россия",
+        "url": "https://api.hh.ru/areas/113"
+      },
+      "salary": {
+        "from": 30000,
+        "to": 44000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-10-27T12:33:49+0300",
+      "created_at": "2023-10-27T12:33:49+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88747107",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/88747107?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/88747107",
+      "relations": [],
+      "employer": {
+        "id": "9498120",
+        "name": "Яндекс Команда для бизнеса",
+        "url": "https://api.hh.ru/employers/9498120",
+        "alternate_url": "https://hh.ru/employer/9498120",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/1121425.jpg",
+          "90": "https://hhcdn.ru/employer-logo/6106293.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/6106294.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы не требуется. Обязательно наличие ПК или ноутбука. Будет плюсом опыт работы на вакансиях:",
+        "responsibility": null
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "88740630",
+      "premium": false,
+      "name": "Удаленный диспетчер чатов (в Яндекс)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "113",
+        "name": "Россия",
+        "url": "https://api.hh.ru/areas/113"
+      },
+      "salary": {
+        "from": 30000,
+        "to": 44000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-10-27T11:43:34+0300",
+      "created_at": "2023-10-27T11:43:34+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88740630",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/88740630?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/88740630",
+      "relations": [],
+      "employer": {
+        "id": "9498120",
+        "name": "Яндекс Команда для бизнеса",
+        "url": "https://api.hh.ru/employers/9498120",
+        "alternate_url": "https://hh.ru/employer/9498120",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/1121425.jpg",
+          "90": "https://hhcdn.ru/employer-logo/6106293.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/6106294.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...",
+        "responsibility": "Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "83",
+          "name": "Оператор call-центра, специалист контактного центра"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "88738454",
+      "premium": false,
+      "name": "Удаленный специалист службы поддержки (в Яндекс)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "113",
+        "name": "Россия",
+        "url": "https://api.hh.ru/areas/113"
+      },
+      "salary": {
+        "from": 30000,
+        "to": 44000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-10-27T11:26:11+0300",
+      "created_at": "2023-10-27T11:26:11+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88738454",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/88738454?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/88738454",
+      "relations": [],
+      "employer": {
+        "id": "9498120",
+        "name": "Яндекс Команда для бизнеса",
+        "url": "https://api.hh.ru/employers/9498120",
+        "alternate_url": "https://hh.ru/employer/9498120",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/1121425.jpg",
+          "90": "https://hhcdn.ru/employer-logo/6106293.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/6106294.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...",
+        "responsibility": "Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "88868359",
+      "premium": false,
+      "name": "Грузчик",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 72000,
+        "to": 89000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-11-12T10:36:34+0300",
+      "created_at": "2023-11-12T10:36:34+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88868359",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/88868359?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/88868359",
+      "relations": [],
+      "employer": {
+        "id": "5892729",
+        "name": "RabotaHR",
+        "url": "https://api.hh.ru/employers/5892729",
+        "alternate_url": "https://hh.ru/employer/5892729",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/6225262.png",
+          "original": "https://hhcdn.ru/employer-logo-original/1151200.png",
+          "240": "https://hhcdn.ru/employer-logo/6225263.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5892729",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Можно БЕЗ ОПЫТА.",
+        "responsibility": "Деятельность осуществляется на складе. Погрузка и разгрузка товара."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "shift",
+        "name": "Сменный график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "31",
+          "name": "Грузчик"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "88746170",
+      "premium": false,
+      "name": "Менеджер чатов на дому (в Яндекс)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "113",
+        "name": "Россия",
+        "url": "https://api.hh.ru/areas/113"
+      },
+      "salary": {
+        "from": 30000,
+        "to": 44000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-10-27T12:24:54+0300",
+      "created_at": "2023-10-27T12:24:54+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88746170",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/88746170?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/88746170",
+      "relations": [],
+      "employer": {
+        "id": "9498120",
+        "name": "Яндекс Команда для бизнеса",
+        "url": "https://api.hh.ru/employers/9498120",
+        "alternate_url": "https://hh.ru/employer/9498120",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/1121425.jpg",
+          "90": "https://hhcdn.ru/employer-logo/6106293.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/6106294.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...",
+        "responsibility": "Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "88744748",
+      "premium": false,
+      "name": "Оператор на входящие сообщения (удаленно, в Яндекс)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "113",
+        "name": "Россия",
+        "url": "https://api.hh.ru/areas/113"
+      },
+      "salary": {
+        "from": 30000,
+        "to": 44000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-10-27T12:13:39+0300",
+      "created_at": "2023-10-27T12:13:39+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88744748",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/88744748?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/88744748",
+      "relations": [],
+      "employer": {
+        "id": "9498120",
+        "name": "Яндекс Команда для бизнеса",
+        "url": "https://api.hh.ru/employers/9498120",
+        "alternate_url": "https://hh.ru/employer/9498120",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/1121425.jpg",
+          "90": "https://hhcdn.ru/employer-logo/6106293.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/6106294.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...",
+        "responsibility": "Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "88292347",
+      "premium": false,
+      "name": "Сотрудник ресторана",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 50000,
+        "to": 70000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-11-10T14:35:51+0300",
+      "created_at": "2023-11-10T14:35:51+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88292347",
+      "branding": {
+        "type": "CONSTRUCTOR",
+        "tariff": "BASIC"
+      },
+      "show_logo_in_search": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/88292347?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/88292347",
+      "relations": [],
+      "employer": {
+        "id": "2059392",
+        "name": "Додо Пицца (ООО ДПМ Север)",
+        "url": "https://api.hh.ru/employers/2059392",
+        "alternate_url": "https://hh.ru/employer/2059392",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/1027053.png",
+          "240": "https://hhcdn.ru/employer-logo/5728981.png",
+          "90": "https://hhcdn.ru/employer-logo/5728980.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2059392",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": null,
+        "responsibility": "Готовить пиццу и закуски. Принимать продукты от поставщиков. Готовить ингредиенты для будущих пицц. Поддерживать порядок на кухне. Раскладывать заказы для..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "94",
+          "name": "Повар, пекарь, кондитер"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "88866671",
+      "premium": false,
+      "name": "Сборщик заказов на склад",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 76000,
+        "to": 89000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-11-12T10:16:49+0300",
+      "created_at": "2023-11-12T10:16:49+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88866671",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/88866671?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/88866671",
+      "relations": [],
+      "employer": {
+        "id": "5892729",
+        "name": "RabotaHR",
+        "url": "https://api.hh.ru/employers/5892729",
+        "alternate_url": "https://hh.ru/employer/5892729",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/6225262.png",
+          "original": "https://hhcdn.ru/employer-logo-original/1151200.png",
+          "240": "https://hhcdn.ru/employer-logo/6225263.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5892729",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Можно БЕЗ ОПЫТА.",
+        "responsibility": "Собирать заказ согласно списку."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "shift",
+        "name": "Сменный график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "professional_roles": [
+        {
+          "id": "131",
+          "name": "Упаковщик, комплектовщик"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "88741290",
+      "premium": false,
+      "name": "Менеджер чатов, удалённо (в Яндекс)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "113",
+        "name": "Россия",
+        "url": "https://api.hh.ru/areas/113"
+      },
+      "salary": {
+        "from": 30000,
+        "to": 44000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-10-27T11:47:20+0300",
+      "created_at": "2023-10-27T11:47:20+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88741290",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/88741290?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/88741290",
+      "relations": [],
+      "employer": {
+        "id": "9498120",
+        "name": "Яндекс Команда для бизнеса",
+        "url": "https://api.hh.ru/employers/9498120",
+        "alternate_url": "https://hh.ru/employer/9498120",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/1121425.jpg",
+          "90": "https://hhcdn.ru/employer-logo/6106293.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/6106294.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...",
+        "responsibility": "Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "83",
+          "name": "Оператор call-центра, специалист контактного центра"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "88466102",
+      "premium": false,
+      "name": "Junior/Стажер UI Designer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 45000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-10-20T16:27:03+0300",
+      "created_at": "2023-10-20T16:27:03+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88466102",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/88466102?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/88466102",
+      "relations": [],
+      "employer": {
+        "id": "10452890",
+        "name": "Страхова Татьяна Рудольфовна",
+        "url": "https://api.hh.ru/employers/10452890",
+        "alternate_url": "https://hh.ru/employer/10452890",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10452890",
+        "accredited_it_employer": false,
+        "trusted": false
+      },
+      "snippet": {
+        "requirement": "Владение FIGMA. Усидчивость, рутиноустойчивость.",
+        "responsibility": "Рисование макетов и прототипов по ТЗ. Выполнение заданий связанных с организацией Дизайн-системы."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "professional_roles": [
+        {
+          "id": "34",
+          "name": "Дизайнер, художник"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    }
+  ],
+  "found": 1293934,
+  "pages": 200,
+  "per_page": 10,
+  "page": 0,
+  "clusters": null,
+  "arguments": null,
+  "fixes": null,
+  "suggests": null,
+  "alternate_url": "https://hh.ru/search/vacancy?area=113&enable_snippets=true&items_on_page=10"
+}

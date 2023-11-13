@@ -1,0 +1,82 @@
+[
+  {
+    "profession": "Продавец (подработка) Волгоград, им маршала Еременко, 98",
+    "url": "https://volgograd.superjob.ru/vakansii/prodavec-35582774.html",
+    "salary_min": 0,
+    "salary_max": 0,
+    "currency": "rub",
+    "requirement": null
+  },
+  {
+    "profession": "Видеоинженер",
+    "url": "https://ufa.superjob.ru/vakansii/videoinzhener-41245533.html",
+    "salary_min": 25000,
+    "salary_max": 0,
+    "currency": "rub",
+    "requirement": null
+  },
+  {
+    "profession": "Специалист по IT / Преподаватель информатики",
+    "url": "https://alushta.superjob.ru/vakansii/specialist-po-it-45433067.html",
+    "salary_min": 50000,
+    "salary_max": 75000,
+    "currency": "rub",
+    "requirement": null
+  },
+  {
+    "profession": "Инженер АСУ ТП",
+    "url": "https://artem.superjob.ru/vakansii/inzhener-asu-tp-46511472.html",
+    "salary_min": 0,
+    "salary_max": 0,
+    "currency": "rub",
+    "requirement": null
+  },
+  {
+    "profession": "Инженер по техническому учету магистральных сетей связи",
+    "url": "https://lipetsk.superjob.ru/vakansii/inzhener-po-tehnicheskomu-uchetu-magistralnyh-setej-svyazi-46572535.html",
+    "salary_min": 24400,
+    "salary_max": 0,
+    "currency": "rub",
+    "requirement": null
+  },
+  {
+    "profession": "Начальник отдела информационных технологий",
+    "url": "https://lyudinovo.superjob.ru/vakansii/nachalnik-otdela-informacionnyh-tehnologij-47438953.html",
+    "salary_min": 0,
+    "salary_max": 0,
+    "currency": "rub",
+    "requirement": null
+  },
+  {
+    "profession": "Менеджер по продажам",
+    "url": "https://www.superjob.ru/vakansii/menedzher-po-prodazham-47976542.html",
+    "salary_min": 20000,
+    "salary_max": 30000,
+    "currency": "rub",
+    "requirement": null
+  },
+  {
+    "profession": "Монтажник-слаботочник",
+    "url": "https://tver.superjob.ru/vakansii/montazhnik-slabotochnik-47146981.html",
+    "salary_min": 55000,
+    "salary_max": 200000,
+    "currency": "rub",
+    "requirement": null
+  },
+  {
+    "profession": "Аналитик",
+    "url": "https://www.superjob.ru/vakansii/analitik-47851462.html",
+    "salary_min": 0,
+    "salary_max": 0,
+    "currency": "rub",
+    "requirement": null
+  },
+  {
+    "profession": "Менеджер по развитию",
+    "url": "https://www.superjob.ru/vakansii/menedzher-po-razvitiyu-47976874.html",
+    "salary_min": 0,
+    "salary_max": 0,
+    "currency": "rub",
+    "requirement": null
+  }
+]

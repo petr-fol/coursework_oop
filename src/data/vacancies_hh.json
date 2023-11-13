@@ -1,0 +1,82 @@
+[
+  {
+    "profession": "Диспетчер чатов, удаленно",
+    "url": "https://api.hh.ru/vacancies/88747107?host=hh.ru",
+    "salary_min": 30000,
+    "salary_max": 44000,
+    "currency": "RUR",
+    "requirement": "Опыт работы не требуется. Обязательно наличие ПК или ноутбука. Будет плюсом опыт работы на вакансиях:"
+  },
+  {
+    "profession": "Удаленный диспетчер чатов (в Яндекс)",
+    "url": "https://api.hh.ru/vacancies/88740630?host=hh.ru",
+    "salary_min": 30000,
+    "salary_max": 44000,
+    "currency": "RUR",
+    "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе..."
+  },
+  {
+    "profession": "Удаленный специалист службы поддержки (в Яндекс)",
+    "url": "https://api.hh.ru/vacancies/88738454?host=hh.ru",
+    "salary_min": 30000,
+    "salary_max": 44000,
+    "currency": "RUR",
+    "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе..."
+  },
+  {
+    "profession": "Грузчик",
+    "url": "https://api.hh.ru/vacancies/88868359?host=hh.ru",
+    "salary_min": 72000,
+    "salary_max": 89000,
+    "currency": "RUR",
+    "requirement": "Можно БЕЗ ОПЫТА."
+  },
+  {
+    "profession": "Менеджер чатов на дому (в Яндекс)",
+    "url": "https://api.hh.ru/vacancies/88746170?host=hh.ru",
+    "salary_min": 30000,
+    "salary_max": 44000,
+    "currency": "RUR",
+    "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе..."
+  },
+  {
+    "profession": "Оператор на входящие сообщения (удаленно, в Яндекс)",
+    "url": "https://api.hh.ru/vacancies/88744748?host=hh.ru",
+    "salary_min": 30000,
+    "salary_max": 44000,
+    "currency": "RUR",
+    "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе..."
+  },
+  {
+    "profession": "Сотрудник ресторана",
+    "url": "https://api.hh.ru/vacancies/88292347?host=hh.ru",
+    "salary_min": 50000,
+    "salary_max": 70000,
+    "currency": "RUR",
+    "requirement": null
+  },
+  {
+    "profession": "Сборщик заказов на склад",
+    "url": "https://api.hh.ru/vacancies/88866671?host=hh.ru",
+    "salary_min": 76000,
+    "salary_max": 89000,
+    "currency": "RUR",
+    "requirement": "Можно БЕЗ ОПЫТА."
+  },
+  {
+    "profession": "Менеджер чатов, удалённо (в Яндекс)",
+    "url": "https://api.hh.ru/vacancies/88741290?host=hh.ru",
+    "salary_min": 30000,
+    "salary_max": 44000,
+    "currency": "RUR",
+    "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе..."
+  },
+  {
+    "profession": "Junior/Стажер UI Designer",
+    "url": "https://api.hh.ru/vacancies/88466102?host=hh.ru",
+    "salary_min": 45000,
+    "salary_max": null,
+    "currency": "RUR",
+    "requirement": "Владение FIGMA. Усидчивость, рутиноустойчивость."
+  }
+]
