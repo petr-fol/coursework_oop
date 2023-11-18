@@ -85,6 +85,184 @@
       "is_adv_vacancy": false
     },
     {
+      "id": "88611821",
+      "premium": false,
+      "name": "Проверяющий на документы",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "3",
+        "name": "Екатеринбург",
+        "url": "https://api.hh.ru/areas/3"
+      },
+      "salary": {
+        "from": 40000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-10-25T07:51:21+0300",
+      "created_at": "2023-10-25T07:51:21+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88611821",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/88611821?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/88611821",
+      "relations": [],
+      "employer": {
+        "id": "10464568",
+        "name": "Писаренко Анастасия Олеговна",
+        "url": "https://api.hh.ru/employers/10464568",
+        "alternate_url": "https://hh.ru/employer/10464568",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10464568",
+        "accredited_it_employer": false,
+        "trusted": false
+      },
+      "snippet": {
+        "requirement": "Умение работать с ПК. Внимательность. Усидчивость.",
+        "responsibility": "Прием заявок по документам. Сортировка по датам и важности. Первичная проверка по шаблонам. Отчет по проделанной работе."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": true,
+      "professional_roles": [
+        {
+          "id": "110",
+          "name": "Секретарь, помощник руководителя, ассистент"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "89494110",
+      "premium": false,
+      "name": "Сотрудник пункта сбора заказов (начинающий специалист)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": null,
+        "to": 146000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-11-18T13:00:28+0300",
+      "created_at": "2023-11-18T13:00:28+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=89494110",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/89494110?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/89494110",
+      "relations": [],
+      "employer": {
+        "id": "5892729",
+        "name": "RabotaHR",
+        "url": "https://api.hh.ru/employers/5892729",
+        "alternate_url": "https://hh.ru/employer/5892729",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/6225262.png",
+          "original": "https://hhcdn.ru/employer-logo-original/1151200.png",
+          "240": "https://hhcdn.ru/employer-logo/6225263.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5892729",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "пунктуальность.  ответственность.",
+        "responsibility": "Комплектовать и собирать интернет заказы. ПРЕДЛОЖЕНИЕ АКТУАЛЬНО!"
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [
+        {
+          "id": "only_saturday_and_sunday",
+          "name": "Работа только по сб и вс"
+        }
+      ],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": true,
+      "professional_roles": [
+        {
+          "id": "131",
+          "name": "Упаковщик, комплектовщик"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
       "id": "88740630",
       "premium": false,
       "name": "Удаленный диспетчер чатов (в Яндекс)",
@@ -241,85 +419,6 @@
         }
       ],
       "accept_incomplete_resumes": false,
-      "experience": {
-        "id": "noExperience",
-        "name": "Нет опыта"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
-      "id": "88868359",
-      "premium": false,
-      "name": "Грузчик",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "1",
-        "name": "Москва",
-        "url": "https://api.hh.ru/areas/1"
-      },
-      "salary": {
-        "from": 72000,
-        "to": 89000,
-        "currency": "RUR",
-        "gross": false
-      },
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-11-12T10:36:34+0300",
-      "created_at": "2023-11-12T10:36:34+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88868359",
-      "show_logo_in_search": null,
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/88868359?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/88868359",
-      "relations": [],
-      "employer": {
-        "id": "5892729",
-        "name": "RabotaHR",
-        "url": "https://api.hh.ru/employers/5892729",
-        "alternate_url": "https://hh.ru/employer/5892729",
-        "logo_urls": {
-          "90": "https://hhcdn.ru/employer-logo/6225262.png",
-          "original": "https://hhcdn.ru/employer-logo-original/1151200.png",
-          "240": "https://hhcdn.ru/employer-logo/6225263.png"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5892729",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Можно БЕЗ ОПЫТА.",
-        "responsibility": "Деятельность осуществляется на складе. Погрузка и разгрузка товара."
-      },
-      "contacts": null,
-      "schedule": {
-        "id": "shift",
-        "name": "Сменный график"
-      },
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "31",
-          "name": "Грузчик"
-        }
-      ],
-      "accept_incomplete_resumes": true,
       "experience": {
         "id": "noExperience",
         "name": "Нет опыта"
@@ -500,262 +599,6 @@
       "is_adv_vacancy": false
     },
     {
-      "id": "88292347",
-      "premium": false,
-      "name": "Сотрудник ресторана",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "1",
-        "name": "Москва",
-        "url": "https://api.hh.ru/areas/1"
-      },
-      "salary": {
-        "from": 50000,
-        "to": 70000,
-        "currency": "RUR",
-        "gross": false
-      },
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-11-10T14:35:51+0300",
-      "created_at": "2023-11-10T14:35:51+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88292347",
-      "branding": {
-        "type": "CONSTRUCTOR",
-        "tariff": "BASIC"
-      },
-      "show_logo_in_search": true,
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/88292347?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/88292347",
-      "relations": [],
-      "employer": {
-        "id": "2059392",
-        "name": "Додо Пицца (ООО ДПМ Север)",
-        "url": "https://api.hh.ru/employers/2059392",
-        "alternate_url": "https://hh.ru/employer/2059392",
-        "logo_urls": {
-          "original": "https://hhcdn.ru/employer-logo-original/1027053.png",
-          "240": "https://hhcdn.ru/employer-logo/5728981.png",
-          "90": "https://hhcdn.ru/employer-logo/5728980.png"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2059392",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": null,
-        "responsibility": "Готовить пиццу и закуски. Принимать продукты от поставщиков. Готовить ингредиенты для будущих пицц. Поддерживать порядок на кухне. Раскладывать заказы для..."
-      },
-      "contacts": null,
-      "schedule": {
-        "id": "fullDay",
-        "name": "Полный день"
-      },
-      "working_days": [],
-      "working_time_intervals": [
-        {
-          "id": "from_four_to_six_hours_in_a_day",
-          "name": "Можно работать сменами по 4–6 часов в день"
-        }
-      ],
-      "working_time_modes": [
-        {
-          "id": "start_after_sixteen",
-          "name": "Можно начинать работать после 16:00"
-        }
-      ],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "94",
-          "name": "Повар, пекарь, кондитер"
-        }
-      ],
-      "accept_incomplete_resumes": true,
-      "experience": {
-        "id": "noExperience",
-        "name": "Нет опыта"
-      },
-      "employment": {
-        "id": "part",
-        "name": "Частичная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
-      "id": "88866671",
-      "premium": false,
-      "name": "Сборщик заказов на склад",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "1",
-        "name": "Москва",
-        "url": "https://api.hh.ru/areas/1"
-      },
-      "salary": {
-        "from": 76000,
-        "to": 89000,
-        "currency": "RUR",
-        "gross": false
-      },
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-11-12T10:16:49+0300",
-      "created_at": "2023-11-12T10:16:49+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88866671",
-      "show_logo_in_search": null,
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/88866671?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/88866671",
-      "relations": [],
-      "employer": {
-        "id": "5892729",
-        "name": "RabotaHR",
-        "url": "https://api.hh.ru/employers/5892729",
-        "alternate_url": "https://hh.ru/employer/5892729",
-        "logo_urls": {
-          "90": "https://hhcdn.ru/employer-logo/6225262.png",
-          "original": "https://hhcdn.ru/employer-logo-original/1151200.png",
-          "240": "https://hhcdn.ru/employer-logo/6225263.png"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5892729",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Можно БЕЗ ОПЫТА.",
-        "responsibility": "Собирать заказ согласно списку."
-      },
-      "contacts": null,
-      "schedule": {
-        "id": "shift",
-        "name": "Сменный график"
-      },
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": true,
-      "professional_roles": [
-        {
-          "id": "131",
-          "name": "Упаковщик, комплектовщик"
-        }
-      ],
-      "accept_incomplete_resumes": true,
-      "experience": {
-        "id": "noExperience",
-        "name": "Нет опыта"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
-      "id": "88741290",
-      "premium": false,
-      "name": "Менеджер чатов, удалённо (в Яндекс)",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "113",
-        "name": "Россия",
-        "url": "https://api.hh.ru/areas/113"
-      },
-      "salary": {
-        "from": 30000,
-        "to": 44000,
-        "currency": "RUR",
-        "gross": true
-      },
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2023-10-27T11:47:20+0300",
-      "created_at": "2023-10-27T11:47:20+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88741290",
-      "show_logo_in_search": null,
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/88741290?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/88741290",
-      "relations": [],
-      "employer": {
-        "id": "9498120",
-        "name": "Яндекс Команда для бизнеса",
-        "url": "https://api.hh.ru/employers/9498120",
-        "alternate_url": "https://hh.ru/employer/9498120",
-        "logo_urls": {
-          "original": "https://hhcdn.ru/employer-logo-original/1121425.jpg",
-          "90": "https://hhcdn.ru/employer-logo/6106293.jpeg",
-          "240": "https://hhcdn.ru/employer-logo/6106294.jpeg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
-        "accredited_it_employer": false,
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...",
-        "responsibility": "Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "
-      },
-      "contacts": null,
-      "schedule": {
-        "id": "remote",
-        "name": "Удаленная работа"
-      },
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [
-        {
-          "id": "start_after_sixteen",
-          "name": "Можно начинать работать после 16:00"
-        }
-      ],
-      "accept_temporary": false,
-      "professional_roles": [
-        {
-          "id": "83",
-          "name": "Оператор call-центра, специалист контактного центра"
-        }
-      ],
-      "accept_incomplete_resumes": true,
-      "experience": {
-        "id": "noExperience",
-        "name": "Нет опыта"
-      },
-      "employment": {
-        "id": "full",
-        "name": "Полная занятость"
-      },
-      "adv_response_url": null,
-      "is_adv_vacancy": false
-    },
-    {
       "id": "88466102",
       "premium": false,
       "name": "Junior/Стажер UI Designer",
@@ -828,9 +671,177 @@
       },
       "adv_response_url": null,
       "is_adv_vacancy": false
+    },
+    {
+      "id": "88693588",
+      "premium": false,
+      "name": "Личный ассистент психолога",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 50000,
+        "to": 250000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-10-26T15:24:35+0300",
+      "created_at": "2023-10-26T15:24:35+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88693588",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/88693588?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/88693588",
+      "relations": [],
+      "employer": {
+        "id": "10459076",
+        "name": "Гунбина Алина Борисовна",
+        "url": "https://api.hh.ru/employers/10459076",
+        "alternate_url": "https://hh.ru/employer/10459076",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10459076",
+        "accredited_it_employer": false,
+        "trusted": false
+      },
+      "snippet": {
+        "requirement": "Умение выстраивать коммуникации. Умение продавать и представлять интересы работодателя.",
+        "responsibility": "Посещение бизнес мероприятий. Поиск новых клиентов."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "110",
+          "name": "Секретарь, помощник руководителя, ассистент"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "89363371",
+      "premium": false,
+      "name": "Водитель категории В (выходного дня)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": null,
+        "to": 249000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-11-16T11:00:09+0300",
+      "created_at": "2023-11-16T11:00:09+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=89363371",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/89363371?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/89363371",
+      "relations": [],
+      "employer": {
+        "id": "5892729",
+        "name": "RabotaHR",
+        "url": "https://api.hh.ru/employers/5892729",
+        "alternate_url": "https://hh.ru/employer/5892729",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/6225262.png",
+          "original": "https://hhcdn.ru/employer-logo-original/1151200.png",
+          "240": "https://hhcdn.ru/employer-logo/6225263.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5892729",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Рассматриваем БЕЗ опыта работы. На любом автомобиле, любой стаж вождения. Не требуется Опыт Работы. Приветствуется опыт работы в должностях:",
+        "responsibility": "Доставка и сборка оплаченных интернет заказов по городу. Нужно забирать готовые заказы и доставлять клиентам в пределах одного района. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [
+        {
+          "id": "only_saturday_and_sunday",
+          "name": "Работа только по сб и вс"
+        }
+      ],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": true,
+      "professional_roles": [
+        {
+          "id": "21",
+          "name": "Водитель"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
     }
   ],
-  "found": 1293934,
+  "found": 1325074,
   "pages": 200,
   "per_page": 10,
   "page": 0,

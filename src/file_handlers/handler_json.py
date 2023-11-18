@@ -11,7 +11,6 @@ class JSONHandler(Handler):
     def save_vacancies_hh():
         """
         Преобразует данные из файла с вакансиями в экземпляры класса Vacancy и сохраняет в новый файл.
-
         """
         try:
             path = os.path.join("..", "data", "data_hh.json")
@@ -162,13 +161,14 @@ class JSONHandler(Handler):
 
             vacancies = []
             for vacancy_data in data:
+                print(vacancy_data["requirement"])
                 vacancy = Vacancy(
                     profession=vacancy_data["profession"],
                     url=vacancy_data["url"],
                     salary_min=vacancy_data["salary_min"],
                     salary_max=vacancy_data["salary_max"],
                     currency=vacancy_data["currency"],
-                    requirement=vacancy_data["requirement"]
+                    requirement=vacancy_data["requirement"] if vacancy_data["requirement"] else 'НЕТ ДАННЫХ'
                 )
                 vacancies.append(vacancy)
                 print(vacancy.profession, vacancy.requirement)  # Исправлено здесь
@@ -194,16 +194,17 @@ class JSONHandler(Handler):
 
             vacancies = []
             for vacancy_data in data:
+                print(vacancy_data["requirement"])
+
                 vacancy = Vacancy(
                     profession=vacancy_data["profession"],
                     url=vacancy_data["url"],
                     salary_min=vacancy_data["salary_min"],
                     salary_max=vacancy_data["salary_max"],
                     currency=vacancy_data["currency"],
-                    requirement=vacancy_data["requirement"]
+                    requirement=vacancy_data["requirement"] if vacancy_data["requirement"] else 'НЕТ ДАННЫХ'
                 )
                 vacancies.append(vacancy)
-
             # Используйте список vacancies по вашему усмотрению
             return vacancies
         except FileNotFoundError:

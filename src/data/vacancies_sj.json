@@ -1,81 +1,81 @@
 [
   {
-    "profession": "Продавец (подработка) Волгоград, им маршала Еременко, 98",
-    "url": "https://volgograd.superjob.ru/vakansii/prodavec-35582774.html",
+    "profession": "Программист 1С",
+    "url": "https://chelyabinsk.superjob.ru/vakansii/programmist-1s-47488282.html",
     "salary_min": 0,
     "salary_max": 0,
     "currency": "rub",
     "requirement": null
   },
   {
-    "profession": "Видеоинженер",
-    "url": "https://ufa.superjob.ru/vakansii/videoinzhener-41245533.html",
-    "salary_min": 25000,
+    "profession": "Системный администратор",
+    "url": "https://www.superjob.ru/vakansii/sistemnyj-administrator-47762226.html",
+    "salary_min": 100000,
     "salary_max": 0,
     "currency": "rub",
     "requirement": null
   },
   {
-    "profession": "Специалист по IT / Преподаватель информатики",
-    "url": "https://alushta.superjob.ru/vakansii/specialist-po-it-45433067.html",
+    "profession": "Мастер по обслуживанию абонентов",
+    "url": "https://naro-fominsk.superjob.ru/vakansii/master-po-obsluzhivaniyu-abonentov-47765201.html",
     "salary_min": 50000,
-    "salary_max": 75000,
+    "salary_max": 0,
     "currency": "rub",
     "requirement": null
   },
   {
-    "profession": "Инженер АСУ ТП",
-    "url": "https://artem.superjob.ru/vakansii/inzhener-asu-tp-46511472.html",
+    "profession": "Системный администратор / Инженер",
+    "url": "https://rybinsk.superjob.ru/vakansii/sistemnyj-administrator-47888484.html",
     "salary_min": 0,
     "salary_max": 0,
     "currency": "rub",
     "requirement": null
   },
   {
-    "profession": "Инженер по техническому учету магистральных сетей связи",
-    "url": "https://lipetsk.superjob.ru/vakansii/inzhener-po-tehnicheskomu-uchetu-magistralnyh-setej-svyazi-46572535.html",
-    "salary_min": 24400,
+    "profession": "Оператор связи",
+    "url": "https://mytischi.superjob.ru/vakansii/operator-svyazi-48029132.html",
+    "salary_min": 36000,
+    "salary_max": 43000,
+    "currency": "rub",
+    "requirement": null
+  },
+  {
+    "profession": "Начальник сектора",
+    "url": "https://samara.superjob.ru/vakansii/nachalnik-sektora-48029149.html",
+    "salary_min": 0,
     "salary_max": 0,
     "currency": "rub",
     "requirement": null
   },
   {
-    "profession": "Начальник отдела информационных технологий",
-    "url": "https://lyudinovo.superjob.ru/vakansii/nachalnik-otdela-informacionnyh-tehnologij-47438953.html",
-    "salary_min": 0,
+    "profession": "Специалист поддержки пользователей (техническая поддержка, call-центр)",
+    "url": "https://kazan.superjob.ru/vakansii/specialist-podderzhki-polzovatelej-46650290.html",
+    "salary_min": 30000,
     "salary_max": 0,
     "currency": "rub",
     "requirement": null
   },
   {
     "profession": "Менеджер по продажам",
-    "url": "https://www.superjob.ru/vakansii/menedzher-po-prodazham-47976542.html",
-    "salary_min": 20000,
-    "salary_max": 30000,
+    "url": "https://www.superjob.ru/vakansii/menedzher-po-prodazham-44838521.html",
+    "salary_min": 120000,
+    "salary_max": 150000,
     "currency": "rub",
     "requirement": null
   },
   {
-    "profession": "Монтажник-слаботочник",
-    "url": "https://tver.superjob.ru/vakansii/montazhnik-slabotochnik-47146981.html",
-    "salary_min": 55000,
-    "salary_max": 200000,
-    "currency": "rub",
-    "requirement": null
-  },
-  {
-    "profession": "Аналитик",
-    "url": "https://www.superjob.ru/vakansii/analitik-47851462.html",
+    "profession": "Инженер-технолог",
+    "url": "https://www.superjob.ru/vakansii/inzhener-tehnolog-47488020.html",
     "salary_min": 0,
     "salary_max": 0,
     "currency": "rub",
     "requirement": null
   },
   {
-    "profession": "Менеджер по развитию",
-    "url": "https://www.superjob.ru/vakansii/menedzher-po-razvitiyu-47976874.html",
+    "profession": "Инженер-технолог 1 категории",
+    "url": "https://spb.superjob.ru/vakansii/inzhener-tehnolog-1-kategorii-48029000.html",
     "salary_min": 0,
-    "salary_max": 0,
+    "salary_max": 100000,
     "currency": "rub",
     "requirement": null
   }
