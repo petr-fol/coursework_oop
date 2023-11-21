@@ -30,7 +30,7 @@ class JSONHandler(Handler):
                         "salary"] else 0,
                     currency=vacancy_data["salary"]["currency"] if vacancy_data["salary"] else "",
                     requirement=vacancy_data["snippet"]["requirement"] if vacancy_data["snippet"] and "requirement" in
-                    vacancy_data["snippet"] else ""
+                                                                          vacancy_data["snippet"] else ""
                 )
                 vacancies.append(vacancy)
 
@@ -80,7 +80,7 @@ class JSONHandler(Handler):
                     salary_min=vacancy_data["payment_from"] if "payment_from" in vacancy_data else 0,
                     salary_max=vacancy_data["payment_to"] if "payment_to" in vacancy_data else 0,
                     currency=vacancy_data["currency"] if "currency" in vacancy_data else "",
-                    requirement=vacancy_data["work"] if "work" in vacancy_data else ""
+                    requirement=vacancy_data["candidat"] if "candidat" in vacancy_data else ""
                 )
                 vacancies.append(vacancy)
 
@@ -161,7 +161,7 @@ class JSONHandler(Handler):
 
             vacancies = []
             for vacancy_data in data:
-                print(vacancy_data["requirement"])
+                # print(vacancy_data["requirement"])
                 vacancy = Vacancy(
                     profession=vacancy_data["profession"],
                     url=vacancy_data["url"],
@@ -171,7 +171,7 @@ class JSONHandler(Handler):
                     requirement=vacancy_data["requirement"] if vacancy_data["requirement"] else 'НЕТ ДАННЫХ'
                 )
                 vacancies.append(vacancy)
-                print(vacancy.profession, vacancy.requirement)  # Исправлено здесь
+                # print(vacancy.profession, vacancy.requirement)  # Исправлено здесь
             # Используйте список vacancies по вашему усмотрению
             return vacancies
         except FileNotFoundError:
@@ -194,8 +194,7 @@ class JSONHandler(Handler):
 
             vacancies = []
             for vacancy_data in data:
-                print(vacancy_data["requirement"])
-
+                # print(vacancy_data["profession"])
                 vacancy = Vacancy(
                     profession=vacancy_data["profession"],
                     url=vacancy_data["url"],
@@ -204,6 +203,7 @@ class JSONHandler(Handler):
                     currency=vacancy_data["currency"],
                     requirement=vacancy_data["requirement"] if vacancy_data["requirement"] else 'НЕТ ДАННЫХ'
                 )
+                # print(vacancy_data["salary_max"], "\n")
                 vacancies.append(vacancy)
             # Используйте список vacancies по вашему усмотрению
             return vacancies
@@ -214,22 +214,25 @@ class JSONHandler(Handler):
                   f"Проверьте корректность формата данных.")
 
     @staticmethod
-    def get_sorted_vacancies_hh(top=1, min_salary=0, key_word='Python') -> list:
+    def get_sorted_vacancies_hh(top=1, min_salary_=0, key_word='Python') -> list:
         try:
             # Получение вакансий из файла
-            vacancies = JSONHandler.get_vacancies_hh()
-            print(vacancies)
-            # Фильтрация по зарплате и ключевому слову
-            filtered_vacancies = [vacancy for vacancy in vacancies
-                                  if vacancy.salary_max >= min_salary
-                                  and (key_word.lower() in vacancy.profession.lower() or
-                                       key_word.lower() in vacancy.requirement.lower())]
+            vacancies = JSONHandler.get_vacancies_sj()
+            filtered_vacancies = []
+            for vacancy in vacancies:
+                try:
+                    salary_max = int(vacancy.salary_max)
+                    if salary_max >= int(min_salary_) or int(vacancy.salary_min) >= int(min_salary_) and (
+                            key_word.lower() in vacancy.profession.lower() or
+                            key_word.lower() in vacancy.requirement.lower()):
+                        filtered_vacancies.append(vacancy)
+                except (ValueError, TypeError):
+                    pass
 
-            # Сортировка по убыванию зарплаты
             sorted_vacancies = sorted(filtered_vacancies, key=lambda x: x.salary_max, reverse=True)
 
             # Выбор указанного количества вакансий
-            result_vacancies = sorted_vacancies[:top]
+            result_vacancies = sorted_vacancies[:int(top)]
 
             return result_vacancies
 
@@ -238,22 +241,25 @@ class JSONHandler(Handler):
             return []
 
     @staticmethod
-    def get_sorted_vacancies_sj(top=1, min_salary=0, key_word='Python') -> list:
+    def get_sorted_vacancies_sj(top=1, min_salary_=0, key_word='Python') -> list:
         try:
             # Получение вакансий из файла
             vacancies = JSONHandler.get_vacancies_sj()
+            filtered_vacancies = []
+            for vacancy in vacancies:
+                try:
+                    salary_max = int(vacancy.salary_max)
+                    if salary_max >= int(min_salary_) or int(vacancy.salary_min) >= int(min_salary_) and (
+                            key_word.lower() in vacancy.profession.lower() or
+                            key_word.lower() in vacancy.requirement.lower()):
+                        filtered_vacancies.append(vacancy)
+                except (ValueError, TypeError):
+                    pass
 
-            # Фильтрация по зарплате и ключевому слову
-            filtered_vacancies = [vacancy for vacancy in vacancies
-                                  if vacancy.salary_max >= min_salary
-                                  and (key_word.lower() in vacancy.profession.lower() or
-                                       key_word.lower() in vacancy.requirement.lower())]
-
-            # Сортировка по убыванию зарплаты
             sorted_vacancies = sorted(filtered_vacancies, key=lambda x: x.salary_max, reverse=True)
 
             # Выбор указанного количества вакансий
-            result_vacancies = sorted_vacancies[:top]
+            result_vacancies = sorted_vacancies[:int(top)]
 
             return result_vacancies
 
