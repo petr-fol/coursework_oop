@@ -18,21 +18,23 @@ def main():
     salary_min = input("напишите минимальную зп для фильтрации ")
     top = input("сколько вывести вакансий? ")
 
-    if hh_or_sj == "1":
+    if hh_or_sj == "2":
         professions = handler.get_sorted_vacancies_hh(top, int(salary_min), keyword)
         for profession in professions:
-            print(profession['profession'])
-            print(profession['requirement'])
-            print(f"{profession['salary_min']} {profession['salary_max']} {profession['currency']}")
-            print(f"Ссылка: {profession['url']}")
+            print(f"* ПРОФЕССИЯ *************\n{profession.profession}")
+            print(f"* ТРЕБОВАНИЯ *************\n{profession.requirement}")
+            print(f"* ЗАРПЛАТА *************\n{profession.salary_min} {profession.salary_max} - {profession.currency}")
+            print(f"* ССЫЛКА *************\n{profession.url}")
+            print("\n")
 
-    elif hh_or_sj == "2":
+    elif hh_or_sj == "1":
         professions = handler.get_sorted_vacancies_sj(top, int(salary_min), keyword)
         for profession in professions:
-            print(f"Профессия: {profession['profession']}")
-            print(f"Требования {profession['requirement']}")
-            print(f"{profession['salary_min']} {profession['salary_max']} {profession['currency']}")
-            print(f"Ссылка: {profession['url']}")
+            print(f"* ПРОФЕССИЯ *************\n{profession.profession}")
+            print(f"* ТРЕБОВАНИЯ *************\n{profession.requirement}")
+            print(f"* ЗАРПЛАТА *************\n{profession.salary_min} {profession.salary_max} - {profession.currency}")
+            print(f"* ССЫЛКА *************\n{profession.url}")
+            print("\n")
 
 
 if __name__ == "__main__":
